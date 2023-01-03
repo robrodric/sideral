@@ -1,0 +1,25 @@
+{
+  "name": "sideral",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.1",
+    "config": "3.3.1",
+    "discord-player": "^5.3.2",
+    "discord.js": "^14.6.0",
+    "dotenv": "^16.0.3",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-node": "^0.0.2",
+    "ffmpeg-static": "^5.1.0",
+    "mongoose": "^6.8.0",
+    "openai": "^3.1.0",
+    "opusscript": "^0.0.8"
+  }
+}
